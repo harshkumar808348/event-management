@@ -1,0 +1,39 @@
+.App {
+    text-align: center;
+    margin-top: 90px;
+  }
+  
+  .qr-container {
+    margin: 20px auto;
+    max-width: 300px;
+  }
+  
+  .input-here {
+    margin-bottom: 20px;
+  }
+  
+  input[type='text'] {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .bn {
+    /* Button Styles */
+    background-color: #007bff; /* Blue color, you can change it to any color you prefer */
+    color: white; /* Text color */
+    padding: 10px 20px; /* Padding */
+    font-size: 16px; /* Font size */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add some border radius for rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s; /* Smooth transition for background color change */
+  }
+  
+  .bn:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+  }
+  
+ 
+  
